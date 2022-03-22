@@ -119,8 +119,8 @@ map = cv.flip(map,0)
 while True:
     radius = input("Input robot radius : ")
     clearance = input("Input clearance between robot and obstracles : ")
-    radius = int(radius)
-    clearance = int(clearance)
+    radius = int(float(radius))
+    clearance = int(float(clearance))
     if radius < 0:
         print('radius is negative, please try again')
     elif clearance < 0:
