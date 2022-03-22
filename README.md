@@ -16,6 +16,6 @@ Instructions
 11. If inputs are out of map or are inside obstacles, the program will ask for new nodes
 12. The program will ask for step size
 13. Input step size between 1 to 10, else the program will ask for new step size
-14. The search begins, start and goal nodes are displayed in red, and explored paths are displayed in white
-15. If the goal is visited, the program will draw a optimal path from start to goal node in red and print "Success"
+14. The search begins, start and goal nodes are displayed in red circles, and explored paths are displayed in white
+15. If the goal is visited, the program will draw an optimal path from start to goal node in red and print "Success"
 16. If path is not found, the program will print "Failure"
