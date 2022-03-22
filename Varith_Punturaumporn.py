@@ -159,7 +159,7 @@ while True:
     ang_start = int(ang_start)
     x_goal, y_goal = int(x_goal), int(y_goal)
     ang_goal = int(ang_goal)
-    L = int(L)
+    L = int(float(L))
     # limit start and goal angle within +-360 deg
     while ang_start >= 360:
         ang_start = ang_start - 360
