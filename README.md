@@ -1,7 +1,8 @@
 # ENPM661_Project3
-ENPM661 Project3 on A* Algorithm Implementation
+ENPM661 Planning for Autonomous Robots <br /> 
+Project3 on A* Algorithm Implementation
 
-Instructions
+# Instructions
 
 1. Make sure cv2 library in installed
 2. Run Varith_Punturaumporn.py
@@ -19,3 +20,6 @@ Instructions
 14. The search begins, start and goal nodes are displayed in red circles, and explored paths are displayed in white
 15. If the goal is visited, the program will draw an optimal path from start to goal node in red and print "Success"
 16. If path is not found, the program will print "Failure"
+
+# Screenshot <br /> 
+![alt text](https://github.com/varithpu/ENPM661_Project3/blob/master/pic1.png)
